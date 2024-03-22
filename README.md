@@ -60,6 +60,7 @@ Now we discretize the system
 
 ![Image 12](images/dimages/discrete_rlocus.jpg.jpg)
 
+
 <br> 
 
 ![Image 13](images/discrete_bode.jpg)
