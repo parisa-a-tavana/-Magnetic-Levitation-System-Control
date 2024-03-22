@@ -43,8 +43,16 @@ Then we xheck the controller performance in the non-linear system.
 <br>
 ![Image 9](images/analog_controller_nonlinear_diagram.jpg)
 <br>
+<br>
 
-__System Discretization__:
+__Feedback Controller__:
+<br>
+We use pole placement to design a feedback controller. We set 2 sets o
+
+<br>
+<br>
+
+# System Discretization:
 
 <br>
 Now we discretize the system
@@ -191,6 +199,21 @@ We also simulate the controller for the non-linear system:
 <br>
 ![Image 37](images/feedback_controller_nonlinear_diagram.jpg)
 <br>
+<br>
+__State observer__:
+<br>
+We use the duality between controller and observer to design the observer. We choose the polse of the observer so that it would be fster. then we simulate the observer.
+<br>
+![Image 37](images/feedback_controller_nonlinear_diagram.jpg)
+<br>
+![Image 37](images/feedback_controller_nonlinear_diagram.jpg)
+<br>
+![Image 37](images/feedback_controller_nonlinear_diagram.jpg)
+<br>
+![Image 37](images/feedback_controller_nonlinear_diagram.jpg)
+<br>
+As we can see the desired output was achieved and the observer worked well.
+
 
 
 
