@@ -165,6 +165,32 @@ both matrices are full-rank so the system is controllable and observable.
 
 
 __Full state feedback Controller__:
+<br>
+We want to design a feedback controller that has the same result as the deadbeat controller. In the deadbeat contrller: z^n=0. so we choose the desired poles as 0.
+<br>
+we use the ackermann method to find the desired feedback. we also use a gian in the system to adjust the output amplitude.
+<br>
+
+![Image 32](images/feedback_controller.jpg)
+<br>
+Iron Ball Height:
+<br>
+![Image 33](images/feedback_controller_ball_height.jpg)
+<br>
+Iron Ball Speed:
+<br>
+![Image 34](images/feedback_controller_ball_speed.jpg)
+<br>
+Current:
+<br>
+![Image 35](images/feedback_controller_current.jpg)
+<br>
+We also simulate the controller for the non-linear system:
+<br>
+![Image 36](images/feedback_controller_nonlinear.jpg)
+<br>
+![Image 37](images/feedback_controller_nonlinear_diagram.jpg)
+<br>
 
 
 
