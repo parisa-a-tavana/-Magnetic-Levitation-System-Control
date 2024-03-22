@@ -105,6 +105,22 @@ We check the performance of the controller on the non linear system
 <br>
 
 ![Image 20](images/discrete_controller_nonlinear_diagram.jpg)
+<br>
 
+Now we plot the bode and rootlocus diagrams of the controlled system:
+<br>
+transfer function of the controller:
+<br>
+![Image 21](images/discerete_controller_transfer_function.jpg)
+<br>
+transfer function of the controlled system:
+<br>
+![Image 22](images/discerete_controller_all_system_transfer_function.jpg)
+<br>
+<br>
+![Image 23](images/discerete_controller_rlocus.jpg)
+<br>
+![Image 24](images/discerete_controller_bode.jpg)
+<br>
 
 
