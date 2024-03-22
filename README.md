@@ -122,5 +122,11 @@ transfer function of the controlled system:
 <br>
 ![Image 24](images/discerete_controller_bode.jpg)
 <br>
+<br>
+<br>
+
+__deadbeat Controller__:
+<br>
+Now we design a deadbit controller for the system:
 
 
