@@ -69,4 +69,42 @@ Now we discretize the system
 <br>
 
 ![Image 14](images/discrete_band_width.jpg)
+
 <br>
+
+<br>
+
+__Discrete Controller__:
+
+<br>
+<br>
+We design a discrete controller that has similiar parameters to the analog one
+<br>
+
+![Image 15](images/discrete_controller.jpg)
+
+<br>
+
+![Image 16](images/discrete_controller_diagram.jpg)
+
+
+
+<br> 
+
+![Image 17](images/discrete_controller_params.jpg)
+
+
+
+
+<br>
+We check the performance of the controller on the non linear system
+<br>
+
+![Image 19](images/discrete_controller_nonlinear.jpg)
+
+<br>
+
+![Image 20](images/discrete_controller_nonlinear_diagram.jpg)
+
+
+
