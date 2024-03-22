@@ -22,6 +22,7 @@ After finding the equilibrium point of the system and linearizing the system aro
 <br>
 ![Image 3](images/state_space.jpg)
 <br>
+<br>
 
 __Controller__:
 <br>
@@ -145,6 +146,25 @@ We add white noise as disturbance to check the performance of the analog, digita
 <br> 
 ![Image 28](images/disturbance_diagram.jpg)
 <br> 
+<br>
+
+
+__Controllability & Observability__:
+<br>
+We want to find the controllability & observability of the discrete system. first we discretisize the state matrices. then we calculate the controllability and observability matrices.
+<br>
+![Image 29](images/state_matrices_discerete.jpg)
+<br>
+![Image 30](images/observe_matrix.jpg)
+<br>
+![Image 31](images/control_matrix.jpg)
+<br>
+both matrices are full-rank so the system is controllable and observable.
+<br>
+<br>
+
+
+__Full state feedback Controller__:
 
 
 
