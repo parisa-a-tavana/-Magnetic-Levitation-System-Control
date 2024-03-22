@@ -1,4 +1,4 @@
-![analog_controller_params](https://github.com/parisa-a-tavana/-Magnetic-Levitation-System-Control/assets/104492285/a44fdfde-5ec1-4822-bf94-de007402c492)# Magnetic-Levitation-System-Control
+# Magnetic-Levitation-System-Control
 <br>
 Magnetic levitation enables gravity defying by applying magnetic fields to suspend objects in mid-air. This occurs as the magnetic force generated counteracts gravity, resulting in the object's suspension. An application of this is evident in Maglev trains, which glide almost frictionlessly above the track surface due to the absence of physical contact. Consequently, these trains can attain remarkable speeds. The operational mechanism involves altering the magnetic polarity along the rails to propel the train forward or backward.
 <br>
