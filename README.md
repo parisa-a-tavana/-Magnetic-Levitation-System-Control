@@ -130,3 +130,19 @@ __deadbeat Controller__:
 Now we design a deadbit controller for the system:
 
 
+
+
+
+
+
+<br>
+<br>
+
+__Disturbance__:
+<br>
+We add white noise as disturbance to check the performance of the analog, digital and deadbeat controllers:
+<br>
+
+
+
+
