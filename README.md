@@ -128,12 +128,11 @@ transfer function of the controlled system:
 __deadbeat Controller__:
 <br>
 Now we design a deadbit controller for the system:
-
-
-
-
-
-
+<br>
+![Image 25](images/deadbeat_controller_func.jpg)
+<br> 
+![Image 26](images/deadbeat_controller_diagram.jpg)
+<br> 
 
 <br>
 <br>
@@ -142,7 +141,10 @@ __Disturbance__:
 <br>
 We add white noise as disturbance to check the performance of the analog, digital and deadbeat controllers:
 <br>
-
+![Image 27](images/disturbance.jpg)
+<br> 
+![Image 28](images/disturbance_diagram.jpg)
+<br> 
 
 
 
