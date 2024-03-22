@@ -52,12 +52,20 @@ Now we discretize the system
 ![Image 10](images/discrete.jpg)
 
 <br>
+
 ![Image 11](images/discrete_transfer_func.jpg)
+
+
 <br>
-![Image 12](images/discrete_rlocus.jpg)
-<br>
+
+![Image 12](images/dimages/discrete_rlocus.jpg.jpg)
+
+<br> 
+
 ![Image 13](images/discrete_bode.jpg)
+
+
 <br>
-![Image 14](discrete_band_width.jpg)
-<br>
+
+![Image 14](images/discrete_band_width.jpg)
 <br>
