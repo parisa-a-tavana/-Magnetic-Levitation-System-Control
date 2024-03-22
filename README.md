@@ -48,7 +48,9 @@ __System Discretization__:
 <br>
 Now we discretize the system
 <br>
+
 ![Image 10](images/discrete.jpg)
+
 <br>
 ![Image 11](images/discrete_transfer_func.jpg)
 <br>
