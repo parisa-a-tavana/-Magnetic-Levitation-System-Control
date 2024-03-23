@@ -19,10 +19,10 @@ Here is the equations describing the system:
 
 ![Image 2](images/equations.jpg)
 
-![Image 2](images/equations.jpg)
 <br>
 After finding the equilibrium point of the system and linearizing the system around that point, we calculate the state matrices:
 <br>
+
 ![Image 3](images/state_space.jpg)
 <br>
 <br>
