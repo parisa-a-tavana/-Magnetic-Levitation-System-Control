@@ -16,6 +16,9 @@ In the system below, there is a coil around the magnetic core and an iron ball. 
 <br>
 Here is the equations describing the system:
 <br>
+
+![Image 2](images/equations.jpg)
+
 ![Image 2](images/equations.jpg)
 <br>
 After finding the equilibrium point of the system and linearizing the system around that point, we calculate the state matrices:
