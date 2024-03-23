@@ -70,7 +70,7 @@ Now we discretize the system
 
 <br>
 
-![Image 12](images/dimages/discrete_rlocus.jpg.jpg)
+![Image 12](images/discerete_controller_rlocus.jpg)
 
 
 <br> 
